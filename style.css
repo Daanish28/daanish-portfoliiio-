@@ -1,0 +1,13 @@
+body{
+    font-family:fantasy;
+}
+
+.header{
+    text-align: center;
+    font-size: 100px;
+    background: linear-gradient(
+        to right, #4d6dc0, #09b5c8,
+         #23c4cf, #1f98bd);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}

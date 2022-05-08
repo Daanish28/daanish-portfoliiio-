@@ -6,8 +6,8 @@ body{
     text-align: center;
     font-size: 100px;
     background: linear-gradient(
-        to right, #33718e, #66c9d0,
-         #66c9d0, #437786);
+        to right, #1c2930, #66c9d0,
+         #66c9d0, #080c0e);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
